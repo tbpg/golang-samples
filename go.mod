@@ -13,7 +13,7 @@ require (
 	cloud.google.com/go/spanner v1.6.0
 	cloud.google.com/go/storage v1.9.0
 	contrib.go.opencensus.io/exporter/stackdriver v0.13.1
-	github.com/aws/aws-sdk-go v1.31.10
+	github.com/aws/aws-sdk-go v1.35.32
 	github.com/bmatcuk/doublestar v1.3.1
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
 	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b
@@ -40,9 +40,9 @@ require (
 	github.com/tinylib/msgp v1.1.2 // indirect
 	go.opencensus.io v0.22.3
 	golang.org/x/exp v0.0.0-20200513190911-00229845015e
-	golang.org/x/net v0.0.0-20200602114024-627f9648deb9
+	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/text v0.3.2
+	golang.org/x/text v0.3.3
 	golang.org/x/tools v0.0.0-20200606014950-c42cb6316fb6
 	google.golang.org/api v0.26.0
 	google.golang.org/appengine v1.6.6
